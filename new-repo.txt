@@ -2,3 +2,4 @@ new-repo
 -kosisisten
 -membuat
 -form
+-baru
