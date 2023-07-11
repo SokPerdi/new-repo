@@ -1,6 +1,7 @@
 RENCANA
 -main java
 -main php
+ * membuat profile sekolah
 -main game 
   * mobile legen
   * dgc
