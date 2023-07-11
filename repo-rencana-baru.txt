@@ -1,4 +1,6 @@
 RENCANA
 -main java
 -main php
--main game
+-main game 
+  * mobile legen
+  * dgc
