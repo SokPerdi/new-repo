@@ -3,6 +3,7 @@ RENCANA
 -main php
  * membuat profile sekolah
   ^ membuat tampilan home
+  ^ dan fitur galery
 -main game 
   * mobile legen
   * dgc
