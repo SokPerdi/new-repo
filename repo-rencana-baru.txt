@@ -2,6 +2,8 @@ RENCANA
 -main java
 -main php
  * membuat profile sekolah
+   ^ menambah tampilan profile
+   ^ fitur fasilitas
 -main game 
   * mobile legen
   * dgc
